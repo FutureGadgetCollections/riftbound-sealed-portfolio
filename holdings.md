@@ -98,6 +98,7 @@ document.addEventListener('DOMContentLoaded', async function() {
   function resolveImage(imgEl, id) {
     if (AVAILABLE_IMAGES.has(id + '.png')) { imgEl.src = IMG_PATH + id + '.png'; }
     else if (AVAILABLE_IMAGES.has(id + '.jpg')) { imgEl.src = IMG_PATH + id + '.jpg'; }
+    else if (AVAILABLE_IMAGES.has(id + '.webp')) { imgEl.src = IMG_PATH + id + '.webp'; }
   }
 
   function formatCurrency(value) {

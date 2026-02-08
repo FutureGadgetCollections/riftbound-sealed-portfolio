@@ -1,17 +1,17 @@
 # Site settings
-title: Weiss Sealed Portfolio
-description: Track your Weiss sealed product investments and performance
-baseurl: "/weiss-sealed-portfolio" # subpath of your site, e.g. /portfolio
+title: Riftbound Sealed Portfolio
+description: Track your Riftbound sealed product investments and performance
+baseurl: "/riftbound-sealed-portfolio" # subpath of your site, e.g. /portfolio
 url: "https://futuregadgettemplates.github.io" # the base hostname & protocol for your site
 
 # Google Sheets URLs
 sheets:
-  published: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpnj84mLDLYs3h7FfA8bxdimF7gwRUyXOaqJdwi8ixYyPsnuXKcUjx_UNYMOgZ2fLEWqlcBGgnOfpB/pubhtml"
-  edit: "https://docs.google.com/spreadsheets/d/1AhYDIMoYPD1tD0MQXbXkfUz0l339jx4bivjOLVDQ8O4/edit?usp=sharing"
+  published: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSOdLrQjsP06ZEZM2Crvv9UwtYCBWBaGYgUP2U6GbYwSTngDXdhTyPzivn-4u0kxXFcQgj0lLPCzOte/pubhtml"
+  edit: "https://docs.google.com/spreadsheets/d/1UwZMd9LiMAjUiATf9aBopaY6RAmGJ51ciL_m7jp8jis/edit?usp=sharing"
 #  collectr: ""
-  transactions: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpnj84mLDLYs3h7FfA8bxdimF7gwRUyXOaqJdwi8ixYyPsnuXKcUjx_UNYMOgZ2fLEWqlcBGgnOfpB/pub?gid=0&single=true&output=tsv"
-  holdings: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpnj84mLDLYs3h7FfA8bxdimF7gwRUyXOaqJdwi8ixYyPsnuXKcUjx_UNYMOgZ2fLEWqlcBGgnOfpB/pub?gid=1563230874&single=true&output=tsv"
-  sales: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpnj84mLDLYs3h7FfA8bxdimF7gwRUyXOaqJdwi8ixYyPsnuXKcUjx_UNYMOgZ2fLEWqlcBGgnOfpB/pub?gid=845485488&single=true&output=tsv"
+  transactions: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSOdLrQjsP06ZEZM2Crvv9UwtYCBWBaGYgUP2U6GbYwSTngDXdhTyPzivn-4u0kxXFcQgj0lLPCzOte/pub?gid=0&single=true&output=tsv"
+  holdings: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSOdLrQjsP06ZEZM2Crvv9UwtYCBWBaGYgUP2U6GbYwSTngDXdhTyPzivn-4u0kxXFcQgj0lLPCzOte/pub?gid=1563230874&single=true&output=tsv"
+  sales: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSOdLrQjsP06ZEZM2Crvv9UwtYCBWBaGYgUP2U6GbYwSTngDXdhTyPzivn-4u0kxXFcQgj0lLPCzOte/pub?gid=845485488&single=true&output=tsv"
 
 # Build settings
 markdown: kramdown
